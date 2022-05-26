@@ -1,1 +1,3 @@
 # odin-recipes
+This project will be displaying my basic skills around making a website. Here I will demonstrate how to make links to different recipes along with showing different fonts.
+May god have mercy on my soul...
